@@ -5,7 +5,7 @@
 A simple rails API
 
 # React App Link
-https://github.com/Saadat123456/hello-rails-frontend
+https://github.com/iKuartz/hello-react-front-end
 ## Built With
 
 - Ruby
